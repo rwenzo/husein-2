@@ -1,0 +1,21 @@
+@media(max-width: 500px) {
+    #navbar {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+#header {
+    margin-bottom: 0.9rem;
+    text-align: center;
+}
+#menu {
+    flex-direction: column-reverse;
+    padding: 10px;
+    
+}
+#nav-text {
+    padding: 5px;
+    margin: 10px;
+}
+
+
